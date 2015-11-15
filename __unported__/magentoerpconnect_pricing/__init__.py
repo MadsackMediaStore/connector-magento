@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from . import connector
-from . import magento_model
-from . import product
-from . import sale
+import connector
+import magento_model
+import product
+import sale

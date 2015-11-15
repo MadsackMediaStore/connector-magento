@@ -19,7 +19,7 @@
 #
 ##############################################################################
 
-from . import test_synchronization
+import test_synchronization
 
 fast_suite = [
 ]

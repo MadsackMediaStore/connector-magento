@@ -24,9 +24,9 @@
     'category': 'Connector',
     'depends': ['magentoerpconnect',
                 ],
-    'author': "Akretion,Odoo Community Association (OCA)",
+    'author': 'MagentoERPconnect Core Editors',
     'license': 'AGPL-3',
-    'website': 'http://www.odoo-magento-connector.com',
+    'website': 'http://www.openerp-magento-connector.com',
     'description': """
 Sale order comments synchronisation
 ===================================
@@ -53,7 +53,7 @@ Settings / options
     'images': [],
     'demo': [],
     'external_dependencies': {
-        'python': ['bs4'],
+        'python': ['nltk'],
     },
     'data': [
         'magento_model_view.xml',

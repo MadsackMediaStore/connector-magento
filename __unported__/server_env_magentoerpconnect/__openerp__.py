@@ -21,7 +21,7 @@
 
 {'name': 'Server environment for Magento Connector',
  'version': '1.0',
- 'author': "Camptocamp,Odoo Community Association (OCA)",
+ 'author': 'Camptocamp',
  'maintainer': 'Camptocamp',
  'license': 'AGPL-3',
  'category': 'Tools',

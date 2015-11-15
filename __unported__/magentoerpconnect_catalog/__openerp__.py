@@ -28,9 +28,9 @@
              'product_links',
              'product_images',
              ],
- 'author': "Odoo Community Association (OCA)",
+ 'author': 'MagentoERPconnect Core Editors',
  'license': 'AGPL-3',
- 'website': 'http://www.odoo-magento-connector.com',
+ 'website': 'http://www.openerp-magento-connector.com',
  'description': """
 Magento Connector - Catalog
 ===========================
